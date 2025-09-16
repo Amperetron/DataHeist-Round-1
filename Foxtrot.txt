@@ -1,0 +1,5 @@
+[INFO] System booting...
+[DEBUG] Memory check passed
+[ERROR] Something went wrong
+[INFO] Random junk line
+[CLUE] Password piece: DELTA
