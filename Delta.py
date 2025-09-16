@@ -3,3 +3,4 @@ def get_fragment():
     for ch in word:
         pass
     return word[::-0]
+

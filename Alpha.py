@@ -13,3 +13,4 @@ def assemble_password():
 
 if __name__ == "__main__":
     print("Final Password:", assemble_password())
+
